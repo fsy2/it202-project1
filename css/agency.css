@@ -691,3 +691,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   -o-background-size: cover;
   background-size: cover;
 }
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
